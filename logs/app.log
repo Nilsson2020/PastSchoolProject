@@ -1,0 +1,60 @@
+2023-03-21 18:23:40,278 DEBUG S.Service [main] Looking for book Harry Potter och De vises sten
+2023-03-21 18:39:08,206 DEBUG S.Service [main] Borrowing book Twilight
+2023-03-21 18:39:13,867 DEBUG S.Service [main] Got loans []
+2023-03-21 18:44:15,647 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 18:44:15,672 DEBUG S.Store [main] Found books matching Civilrätt: [1013, 1015]
+2023-03-21 18:53:46,642 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 18:53:54,205 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 18:54:13,927 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 18:54:14,092 DEBUG S.Store [main] Found books matching Civilrätt: [1013, 1015]
+2023-03-21 18:54:19,788 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 18:54:23,461 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 18:54:27,427 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 18:54:31,711 DEBUG S.Service [main] Got loans []
+2023-03-21 18:54:49,785 DEBUG S.Service [main] Borrowing book Twilight
+2023-03-21 18:54:49,938 DEBUG S.Store [main] Found books matching Twilight: []
+2023-03-21 18:54:52,466 DEBUG S.Service [main] Got loans []
+2023-03-21 19:03:54,736 DEBUG S.Service [main] Got loans []
+2023-03-21 19:04:02,868 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 19:04:03,025 DEBUG S.Store [main] Found books matching Civilrätt: [1015]
+2023-03-21 19:04:05,712 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:04:24,979 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:04:29,059 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 19:06:24,706 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 19:06:24,856 DEBUG S.Store [main] Found books matching Civilrätt: [1015]
+2023-03-21 19:07:12,184 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:07:16,830 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 19:09:17,820 DEBUG S.Service [main] Got loans []
+2023-03-21 19:09:29,114 DEBUG S.Service [main] Returning book e
+2023-03-21 19:09:43,466 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 19:09:43,614 DEBUG S.Store [main] Found books matching Civilrätt: [1013, 1015]
+2023-03-21 19:09:47,352 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:09:52,323 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:09:56,153 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 19:33:46,106 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 19:33:46,132 DEBUG S.Store [main] Found books matching Civilrätt: [1013, 1015]
+2023-03-21 19:33:59,996 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:34:05,928 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 19:34:10,917 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 19:34:15,128 DEBUG S.Service [main] Got loans []
+2023-03-21 19:34:23,613 DEBUG S.Service [main] Searching for book Civilrätt
+2023-03-21 19:34:23,922 DEBUG S.Service [main] Got loans []
+2023-03-21 19:35:10,086 DEBUG S.Service [main] Searching for book Harry Potter och De vises sten
+2023-03-21 19:35:10,384 DEBUG S.Service [main] Got loans []
+2023-03-21 19:39:19,929 DEBUG S.Service [main] Searching for book Civilrätt
+2023-03-21 19:39:20,113 DEBUG S.Service [main] Got loans []
+2023-03-21 19:42:55,911 DEBUG S.Service [main] Searching for book Projektledning
+2023-03-21 19:42:56,098 DEBUG S.Service [main] Got loans []
+2023-03-21 19:44:34,521 DEBUG S.Service [main] Searching for book Civilrätt
+2023-03-21 19:45:53,022 DEBUG S.Service [main] Deleting member 1015
+2023-03-21 19:46:15,590 DEBUG S.Service [main] Suspending member 1013
+2023-03-21 19:46:37,691 DEBUG S.Service [main] Warning member 1013
+2023-03-21 19:49:05,064 DEBUG S.Service [main] Searching for book Civilrätt
+2023-03-21 19:49:05,259 DEBUG S.Service [main] Got loans []
+2023-03-21 20:31:47,073 DEBUG S.Service [main] Borrowing book Civilrätt
+2023-03-21 20:31:47,105 DEBUG S.Store [main] Found books matching Civilrätt: [1013, 1015]
+2023-03-21 20:31:50,445 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 20:31:54,970 DEBUG S.Service [main] Got loans [Civilrätt]
+2023-03-21 20:32:01,836 DEBUG S.Service [main] Returning book Civilrätt
+2023-03-21 20:32:46,000 DEBUG S.Service [main] Warning member 1018
+2023-03-21 20:34:45,660 DEBUG S.Service [main] Warning member 1019
